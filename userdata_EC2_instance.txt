@@ -3,4 +3,8 @@ yum update -y
 yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
+
 echo"<h1>Hello World...from PG-DBDA Acts Students </h1>"> /var/www/html/index.html
+
+
+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
