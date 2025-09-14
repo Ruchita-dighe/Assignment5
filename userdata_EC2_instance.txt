@@ -6,5 +6,6 @@ systemctl enable httpd
 
 echo"<h1>Hello World...from PG-DBDA Acts Students </h1>"> /var/www/html/index.html
 
+sudo apt-get update -y; sudo apt-get upgrade -y
+sudo apt-get install apache2 -y
 
-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
